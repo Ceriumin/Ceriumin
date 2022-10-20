@@ -22,7 +22,7 @@ Dzień Dobry
 ### Introduction
 Hello, my name is **Gracjan Baryła!** 
 
-I am a passionate **self-motivated programmer** with a fair amount of experience in the programming industry. I like to kill boredom by programming in various languages and slowly expand my knowledge in **Software Development** through the .Net Framework. I use Unity for **Games Development** in College and have a fair bit of knowledge in some other languages listed below. I also enjoy Freelancing and helping others through Pc Building/Software Troubleshooting. Furthermore, I like to play Guitar and do some Luthier work. Unfortunately website hosting is expensive for me currently and I don't have extensive knowledge in HTML therefore treat my GitHub as more of my Portfolio. Thank you and Enjoy my work :)!
+I am a passionate **self-motivated programmer** from **Poland** with a fair amount of experience in the programming industry. I like to kill boredom by programming in various languages and slowly expand my knowledge in **Software Development** through the .Net Framework. I use Unity for **Games Development** in College and have a fair bit of knowledge in some other languages listed below. I also enjoy Freelancing and helping others through Pc Building/Software Troubleshooting. Furthermore, I like to play Guitar and do some Luthier work. Unfortunately website hosting is expensive for me currently and I don't have extensive knowledge in HTML therefore treat my GitHub as more of my Portfolio. Thank you and Enjoy my work :)!
 
 ---
 
@@ -37,10 +37,17 @@ I am a passionate **self-motivated programmer** with a fair amount of experience
 
 ---
 
-### :telephone: Contact:
+### :telephone: Contact me here: 
 
-- Email: barylagracjan@outlook.com
 - Discord: gracjan#0994
+- Email: barylagracjan@outlook.com
+
+### :link: Some extra stuff you can check out:
+
+- [My Itch Page](https://ceriumin.itch.io/)
+- [My Resume](https://drive.google.com/file/d/1DJ-6BTPJh1W9GcKCoyvub4Ri4MbgjucT/view?usp=sharing)
+
+
 
 
 
