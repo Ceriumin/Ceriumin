@@ -45,7 +45,6 @@ I am a passionate **self-motivated programmer** from **Poland** with a fair amou
 ### :link: Some extra stuff you can check out:
 
 - [My Itch Page](https://ceriumin.itch.io/)
-- [My Resume](https://drive.google.com/file/d/1DJ-6BTPJh1W9GcKCoyvub4Ri4MbgjucT/view?usp=sharing)
 
 
 
