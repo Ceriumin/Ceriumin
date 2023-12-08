@@ -39,12 +39,9 @@ I am a passionate **self-motivated programmer** from **Poland** with a fair amou
 
 ### :telephone: Contact me here: 
 
-- Discord: gracjan#0994
-- Email: barylagracjan@outlook.com
+- Discord: ceriumin
 
-### :link: Some extra stuff you can check out:
 
-- [My Itch Page](https://ceriumin.itch.io/)
 
 
 
