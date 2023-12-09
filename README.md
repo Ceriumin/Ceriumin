@@ -26,7 +26,7 @@ I am a passionate **self-motivated programmer** from **Poland** with a fair amou
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code ★★★★★" alt="VSCODE" width="40" height="40"/>&nbsp;
@@ -37,9 +37,6 @@ I am a passionate **self-motivated programmer** from **Poland** with a fair amou
 
 ---
 
-### :telephone: Contact me here: 
-
-- Discord: ceriumin
 
 
 
