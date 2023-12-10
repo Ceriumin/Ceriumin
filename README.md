@@ -20,8 +20,6 @@ Dzień Dobry
 
 
 ### Introduction
-Hello, my name is **Gracjan!** 
-
 I am a passionate **self-motivated programmer** from **Poland** with a fair amount of experience in the programming industry. I like to kill boredom by programming in various languages and slowly expand my knowledge in **Software Development** through the .Net Framework. I use Unity for **Games Development** in College and have a fair bit of knowledge in some other languages listed below. I also enjoy Freelancing and helping others through Pc Building/Software Troubleshooting. Furthermore, I like to play Guitar and do some Luthier work. Unfortunately website hosting is expensive for me currently and I don't have extensive knowledge in HTML therefore treat my GitHub as more of my Portfolio. Thank you and Enjoy my work :)!
 
 ---
