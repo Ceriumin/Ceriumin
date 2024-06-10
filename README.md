@@ -12,7 +12,9 @@ Dzień Dobry
 
 
 ### Introduction
-I am a passionate **self-motivated programmer** from **Poland** with a fair amount of experience in the programming industry. I like to kill boredom by programming in various languages and slowly expand my knowledge in **Software Development** through the .Net and React Framework. I am currently a University Student studying Computer Science. I also enjoy Freelancing and helping others through Pc Building/Software Troubleshooting. Furthermore, I like to play Guitar and do some Luthier work. Unfortunately website hosting is expensive for me currently and I don't have extensive knowledge in HTML therefore treat my GitHub as more of my Portfolio. Thank you and Enjoy my work :)!
+I am a passionate **self-motivated programmer** from **Poland** with a fair amount of experience in the programming industry. I like to kill boredom by programming in various languages and slowly expand my knowledge in **Software Development** through the .Net and React Framework. I am currently a University Student studying Computer Science. I also enjoy Freelancing and helping others through Pc Building/Software Troubleshooting. Furthermore, I like to play Guitar and do some Luthier work. I wish I could show some of my project code but due to IP, and rather reasons such as monetization of specific projects, I wish to keep them private, although I would love to discuss some of my projects with you.
+
+Thank you and Enjoy my work :)!
 
 ---
 
